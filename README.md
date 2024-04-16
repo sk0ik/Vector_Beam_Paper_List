@@ -24,6 +24,8 @@
 
 ### 論文をまとめる系の論文
 
+なんとなくベクトルビームはどんなものでどんな用途があるのか知ることができると思います.
+
 [Cylindrical vector beams: from mathematical concepts to applications(2009)](https://opg.optica.org/aop/fulltext.cfm?uri=aop-1-1-1&id=176226)
 
 - ベクトルビームの導出から原理,応用まで広く載っています.この論文で引用している論文を読むことが多かったです.
