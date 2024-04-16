@@ -6,6 +6,6 @@
 
 でも大体光の教科書には偏光のことは載ってると思うので基礎的なことはお持ちの教科書で十分かなと思います.
 
-[光学　谷田貝豊彦](https://www.asakura.co.jp/detail.php?book_code=13121)
+・[光学　谷田貝豊彦](https://www.asakura.co.jp/detail.php?book_code=13121)
 
 ## 論文など
