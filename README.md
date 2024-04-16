@@ -1,4 +1,4 @@
-ベクトルビームに関連する教科書や論文などを貼ります.
+ベクトルビームに関連する教科書や論文などを貼ります.無料で読めない論文もあると思いますがそこは許してね.
 
 ## 教科書
 
@@ -20,9 +20,25 @@
 ### 論文をまとめる系の論文
 
 ・[Cylindrical vector beams: from mathematical concepts to applications(2009)](https://opg.optica.org/aop/fulltext.cfm?uri=aop-1-1-1&id=176226)
+
 ベクトルビームの導出から原理,応用まで広く載っています.この論文で引用している論文を読むことが多かったです.
 
 ・[Vector Beams for Fundamental Physics and Applications(2016)](https://academicworks.cuny.edu/gc_etds/1267/)
+
 偏光状態はポアンカレ球とよばれる球の表面の1点で表すことができるんですがこれをベクトルビームまで拡張したものが高次元ポアンカレ球というものでこれが紹介されていました.(あとで引用元の論文も載せます.)
 
-・[]()
+・[Vectorial optical fields: recent advances and future prospects(2017)](https://www.sciencedirect.com/science/article/abs/pii/S2095927317306333)
+
+名前の通りベクトルビームの応用例が多く載っています.ベクトルビームの有用性を知るという意味ではこれを最初に読んでもよいかもしれません.
+
+・[Orbital angular momentum: origins, behavior and applications(2011)](https://opg.optica.org/aop/abstract.cfm?uri=aop-3-2-161)
+
+これはベクトルビームではなく光渦という光がらせん状の位相をもつビームについて紹介しています.ベクトルビームは偏光を制御するんですがそのうえで位相も制御すると偏光と位相と言う2つの自由度を持ちこれがいろいろなところで研究されています.
+
+・[Creation and detection of optical modes with spatial light modulators(2016)](https://opg.optica.org/aop/abstract.cfm?uri=aop-8-2-200)
+
+実験でベクトルビームを作る際SLMという素子を使うことが多いです.この論文はSLMについて詳しく紹介しています.
+
+・[Spatial Light Modulators and Their Applications in Polarization Holography(2022)](https://www.intechopen.com/chapters/83627)
+
+これもSLMについての論文ですが2022年と新しいものなので最近のことが載っています.
