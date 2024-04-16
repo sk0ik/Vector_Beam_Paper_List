@@ -6,6 +6,23 @@
 
 でも大体光の教科書には偏光のことは載ってると思うので基礎的なことはお持ちの教科書で十分かなと思います.
 
-・[光学　谷田貝豊彦](https://www.asakura.co.jp/detail.php?book_code=13121)
+・[光学-谷田貝豊彦(2017)](https://www.asakura.co.jp/detail.php?book_code=13121)
+偏光に限らず光の勉強を始める際,もしくは光をもっと深くしたい際にぴったりな一冊だと思います.ただ数式が多いのでざっくり理解したい場合は不向きかもしれません.
+
+・[例題で学ぶ光学入門-谷田貝豊彦(2010)](https://www.morikita.co.jp/books/mid/015441)
+先ほどと同じ著者の本ですがこっちの方が薄いのでとっつきやすいです.
+
+・[はじめての光学-川田善正(2014)](https://www.kspub.co.jp/book/detail/1532878.html)
+この本も光を学ぶときとてもタメになる本だと思います.p205-212に平面波をレンズによって集光したときの光強度のシミュレーション(ただし偏光を考慮したもの)が載っています.
 
 ## 論文など
+
+### 論文をまとめる系の論文
+
+・[Cylindrical vector beams: from mathematical concepts to applications(2009)](https://opg.optica.org/aop/fulltext.cfm?uri=aop-1-1-1&id=176226)
+ベクトルビームの導出から原理,応用まで広く載っています.この論文で引用している論文を読むことが多かったです.
+
+・[Vector Beams for Fundamental Physics and Applications(2016)](https://academicworks.cuny.edu/gc_etds/1267/)
+偏光状態はポアンカレ球とよばれる球の表面の1点で表すことができるんですがこれをベクトルビームまで拡張したものが高次元ポアンカレ球というものでこれが紹介されていました.(あとで引用元の論文も載せます.)
+
+・[]()
