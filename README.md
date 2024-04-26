@@ -2,6 +2,7 @@
 - [論文など](#論文など)
   - [論文をまとめる系の論文](#論文をまとめる系の論文)
   - [ベクトルビームの用途](#ベクトルビームの用途)
+  - [](#)
 
 
 ベクトルビームに関連する教科書や論文などを貼ります.無料で読めない論文もあると思いますがそこは許してください.
@@ -56,13 +57,11 @@ $\heartsuit$ [Vectorial optical fields: recent advances and future prospects(201
 
 ## ベクトルビームの用途
 
-[Optical trapping of nanotubes with cylindrical vector beams](https://opg.optica.org/ol/abstract.cfm?uri=ol-37-16-3381)
+[Optical trapping of nanotubes with cylindrical vector beams(2012)](https://opg.optica.org/ol/abstract.cfm?uri=ol-37-16-3381)
 - ベクトルビームを用いた光トラッピング
 
-$\heartsuit$ [Imprinting spatial helicity structure of vector vortex beam on spin texture in semiconductors](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.126701)
+$\heartsuit$ [Imprinting spatial helicity structure of vector vortex beam on spin texture in semiconductors(2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.126701)
 
-$$
-\hearts
-\checkmark
-\heartsuit
-$$
+- 電子のスピンを光で励起する光スピントロニクスという分野があります.この論文ではベクトルビームを用いてスピン励起をおこなっています.
+
+## 
