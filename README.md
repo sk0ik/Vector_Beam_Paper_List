@@ -1,5 +1,5 @@
 - [教科書](#教科書)
-- [論文など☆:個人的に重要だと思ったもの](#論文など☆:個人的に重要だと思ったもの)
+- [論文など(☆:個人的に重要だと思ったもの)](#論文など個人的に重要だと思ったもの)
   - [論文をまとめる系の論文](#論文をまとめる系の論文)
   - [ベクトルビームの用途](#ベクトルビームの用途)
 
@@ -22,7 +22,7 @@
 
 - この本も光を学ぶときとてもタメになる本だと思います.p205-212に平面波をレンズによって集光したときの光強度のシミュレーション(ただし偏光を考慮したもの)が載っています.
 
-# 論文など☆:個人的に重要だと思ったもの
+# 論文など(☆:個人的に重要だと思ったもの)
 
 ## 論文をまとめる系の論文
 
@@ -54,4 +54,7 @@
 
 ## ベクトルビームの用途
 
+[Optical trapping of nanotubes with cylindrical vector beams](https://opg.optica.org/ol/abstract.cfm?uri=ol-37-16-3381)
+- ベクトルビームを用いた光トラッピング
 
+$\bigstar$[Imprinting spatial helicity structure of vector vortex beam on spin texture in semiconductors](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.126701)
