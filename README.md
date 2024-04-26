@@ -20,13 +20,13 @@
 
 - この本も光を学ぶときとてもタメになる本だと思います.p205-212に平面波をレンズによって集光したときの光強度のシミュレーション(ただし偏光を考慮したもの)が載っています.
 
-# 論文など
+# 論文など ☆:個人的に重要だと思ったもの
 
 ## 論文をまとめる系の論文
 
 なんとなくベクトルビームはどんなものでどんな用途があるのか知ることができると思います.
 
-[Cylindrical vector beams: from mathematical concepts to applications(2009)](https://opg.optica.org/aop/fulltext.cfm?uri=aop-1-1-1&id=176226)
+☆[Cylindrical vector beams: from mathematical concepts to applications(2009)](https://opg.optica.org/aop/fulltext.cfm?uri=aop-1-1-1&id=176226)
 
 - ベクトルビームの導出から原理,応用まで広く載っています.この論文で引用している論文を読むことが多かったです.
 
@@ -34,7 +34,7 @@
 
 - 偏光状態はポアンカレ球とよばれる球の表面の1点で表すことができるんですがこれをベクトルビームまで拡張したものが高次元ポアンカレ球というものでこれが紹介されていました.(あとで引用元の論文も載せます.)
 
-[Vectorial optical fields: recent advances and future prospects(2017)](https://www.sciencedirect.com/science/article/abs/pii/S2095927317306333)
+☆[Vectorial optical fields: recent advances and future prospects(2017)](https://www.sciencedirect.com/science/article/abs/pii/S2095927317306333)
 
 - 名前の通りベクトルビームの応用例が多く載っています.ベクトルビームの有用性を知るという意味ではこれを最初に読んでもよいかもしれません.
 
