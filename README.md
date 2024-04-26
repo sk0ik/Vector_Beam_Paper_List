@@ -1,5 +1,5 @@
 - [教科書](#教科書)
-- [論文など( $\\heartsuit$ :個人的に重要だと思ったもの)](#論文など-heartsuit-個人的に重要だと思ったもの)
+- [論文など](#論文など)
   - [論文をまとめる系の論文](#論文をまとめる系の論文)
   - [ベクトルビームの用途](#ベクトルビームの用途)
 
@@ -22,13 +22,15 @@
 
 - この本も光を学ぶときとてもタメになる本だと思います.p205-212に平面波をレンズによって集光したときの光強度のシミュレーション(ただし偏光を考慮したもの)が載っています.
 
-# 論文など( $\heartsuit$ :個人的に重要だと思ったもの)
+# 論文など
+
+$\heartsuit$ は個人的に重要だと思ったものです.
 
 ## 論文をまとめる系の論文
 
 なんとなくベクトルビームはどんなものでどんな用途があるのか知ることができると思います.
 
-$\heartsuit [Cylindrical vector beams: from mathematical concepts to applications(2009)](https://opg.optica.org/aop/fulltext.cfm?uri=aop-1-1-1&id=176226)
+$\heartsuit$ [Cylindrical vector beams: from mathematical concepts to applications(2009)](https://opg.optica.org/aop/fulltext.cfm?uri=aop-1-1-1&id=176226)
 
 - ベクトルビームの導出から原理,応用まで広く載っています.この論文で引用している論文を読むことが多かったです.
 
