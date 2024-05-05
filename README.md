@@ -104,10 +104,6 @@ SLMを使って生成.
 
 ## ベクトルビームを集光
 
-難しい.けど偏光を考慮した回折はこれが基本原理になっています.
-- $\heartsuit$ [Electromagnetic diffraction in optical systems I. An integral representation of the image field](https://royalsocietypublishing.org/doi/10.1098/rspa.1959.0199)
-- $\heartsuit$ [Electromagnetic diffraction in optical systems II. Structure of the image field in an aplanatic system](https://royalsocietypublishing.org/doi/10.1098/rspa.1959.0200)
-
 低NAレンズや高NAレンズで集光したときの振る舞いについて.
 
 - $\heartsuit$ [Vector beams excited nonlinear optical effects](https://www.worldscientific.com/doi/abs/10.1142/S0218863518500455)
@@ -136,6 +132,12 @@ MITの有志の方がベクトルビームの集光を計算するPythonパッ�
 
 ## ベクトルビームの伝播
 
+難しい.けど偏光を考慮した回折はこれが基本原理になっています.
+- $\heartsuit$ [Electromagnetic diffraction in optical systems I. An integral representation of the image field](https://royalsocietypublishing.org/doi/10.1098/rspa.1959.0199)
+- $\heartsuit$ [Electromagnetic diffraction in optical systems II. Structure of the image field in an aplanatic system](https://royalsocietypublishing.org/doi/10.1098/rspa.1959.0200)
+
+ベクトル角スペクトル法など
+
 - [The angular spectrum representation of vectorial laser beams](https://arxiv.org/pdf/1107.4690)
 - [Propagation properties of a cylindrically polarized vector beam](https://www.sciencedirect.com/science/article/abs/pii/S0030399212002903)
 - [Propagation evolution of an off-axis high-order](https://pubmed.ncbi.nlm.nih.gov/25401345/)
@@ -161,10 +163,16 @@ MITの有志の方がベクトルビームの集光を計算するPythonパッ�
 
 - [Focal shift in vector beams](https://opg.optica.org/oe/fulltext.cfm?uri=oe-4-10-411&id=63399)
 
+レイリーゾンマーフェルト回折の計算アルゴリズム
+
+- [Fast computation algorithm for the Rayleigh-Sommerfeld diffraction formula using a type of scaled convolution](https://opg.optica.org/ao/abstract.cfm?uri=ao-48-22-4310)
+- [Fast-Fourier-transform based numerical integration method for the Rayleigh–Sommerfeld diffraction formula](https://opg.optica.org/ao/abstract.cfm?uri=ao-45-6-1102)
+
 ## ベクトルビームの制御
 
 - [Dynamic control of hybrid grafted perfect vector vortex beams](https://www.nature.com/articles/s41467-023-39599-8)
 - [Complete shaping of optical vector beams](https://opg.optica.org/oe/fulltext.cfm?uri=oe-23-14-17701&id=321314)
+- [Fast calculation of tightly focused random electromagnetic beams controlling the focal field by spatial coherence](https://opg.optica.org/oe/fulltext.cfm?uri=oe-28-7-9713&id=429344)
 
 ## ベクトルビームと機械学習
 
