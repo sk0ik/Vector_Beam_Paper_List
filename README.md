@@ -223,7 +223,6 @@ MITの有志の方がベクトルビームの集光を計算するPythonパッ�
 ## 近軸近似のもとでスカラー場に対するヘルムホルツ方程式を解く
 
 - [From Maxwell to paraxial wave optics](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.11.1365)
-- [a](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.11.1365)
 - [Gaussian Beam 計算メモ](http://solidstatephysics.blog.fc2.com/blog-entry-47.html)
 
 ## 近軸近似のもとでベクトル場に対するヘルムホルツ方程式を解く
