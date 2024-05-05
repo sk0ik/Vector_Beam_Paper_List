@@ -71,7 +71,7 @@ $\heartsuit$ は個人的に重要だと思ったものです.
 レーザー加工
 
 - [偏光レーザビームを用いたレーザ加工の高効率化と高機能化](https://ci.nii.ac.jp/naid/500001007468)
-- [Femtosecond Laser Processing by Using Patterned Vector Optical Fields](https://www.nature.
+- [Femtosecond Laser Processing by Using Patterned Vector Optical Fields](https://www.nature)
 
 光トラッピング
 
@@ -172,65 +172,63 @@ MITの有志の方がベクトルビームの集光を計算するPythonパッ�
 - [Single-shot polarimetry of vector beams by supervised learning](https://www.nature.com/articles/s41467-023-37474-0)
 
 ## ベクトルビームと幾何学
-- [Full Poincare´ beams]()
-- [Generation of A Space-Variant Vector Beam with Catenary-Shaped Polarization States]()
-- [Observation of optical polarization Möbius strips]()
+- [Full Poincare´ beams](https://opg.optica.org/oe/fulltext.cfm?uri=oe-18-10-10777)
+- [Generation of A Space-Variant Vector Beam with Catenary-Shaped Polarization States](https://www.mdpi.com/1996-1944/15/8/2940)
+- [Observation of optical polarization Möbius strips](https://www.science.org/doi/10.1126/science.1260635)
 
 ## ベクトルビームとGouy位相
 
-- [Wave-Vector-Varying Pancharatnam-Berry Phase Photonic Spin Hall Effect]()
-- [光学におけるベリー位相]()
-- [Gouy phase effects on propagation of pure and hybrid vector beams]()
-- [Manifestation of the Gouy phase in strongly focused, radially polarized beams]()
-- [Manifestation of the Gouy phase in vector-vortex beams]()
+- [Wave-Vector-Varying Pancharatnam-Berry Phase Photonic Spin Hall Effect](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.083901)
+- [光学におけるベリーの位相](https://annex.jsap.or.jp/photonics/kogaku/public/20-06-kaisetsu3.pdf)
+- [Gouy phase effects on propagation of pure and hybrid vector beams](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-3-2374&id=404332)
+- [Manifestation of the Gouy phase in strongly focused, radially polarized beams](https://opg.optica.org/oe/fulltext.cfm?uri=oe-21-7-8331&id=251737)
+- [Manifestation of the Gouy phase in vector-vortex beams](https://opg.optica.org/ol/abstract.cfm?uri=ol-37-13-2667)
 
 ## 高次元ポアンカレ球
 
-- [Controlled generation of higher-order Poincaré sphere beams from a laser]()
-- [Encoding Higher-Order Polarization States into Robust Partially Coherent Optical Beams]()
-- [Generation of arbitrary cylindrical vector beams on the higher order Poincare´]()
-- [Generalized Poincare sphere]()
-- [Higher-Order Poincaré Sphere, Stokes Parameters, and the Angular Momentum of Light]()
+- [Controlled generation of higher-order Poincaré sphere beams from a laser](https://www.nature.com/articles/nphoton.2016.37)
+- [Encoding Higher-Order Polarization States into Robust Partially Coherent Optical Beams](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.18.034036)
+- [Generation of arbitrary cylindrical vector beams on the higher order Poincare´](https://opg.optica.org/ol/abstract.cfm?uri=ol-39-18-5274)
+- $\heartsuit$ [Generalized Poincare sphere](https://opg.optica.org/oe/fulltext.cfm?uri=oe-23-20-26586&id=327702)
+- $\heartsuit$ [Higher-Order Poincaré Sphere, Stokes Parameters, and the Angular Momentum of Light](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.107.053601)
 
 ## ベクトルビームの評価方法
 
-- [Arbitrary complex retarders using a sequence of spatial light modulators as the basis for adaptive polarisation compensation]()
-- [Basis-independent tomography and nonseparability witnesses of pure complex vectorial light fields by Stokes projections]()
-- [Beam quality measure for vector beams]()
-- [Comprehensive quantitative analysis of vector beam states based on vector field reconstruction]()
-- [Concepts in quantum state tomography and classical implementation with intense light a tutorial]()
-- [ENTANGLEMENT OF FORMATION AND CONCURRENCE]()
-- [Generating arbitrary non-separable states with polarization and orbital angular momentum of light]()
-- [Generation and Detection of Structured Light A Review]()
-- [Generation of fractional and ultra-high polarization-order vector vortex beams on hybrid-order Poincar´e spheres]()
-- [High-order cylindrical vector beams with tunable topologicalcharge up to 14 directly generated from a microchip laser with high beam quality and high efficiency]()
-- [High-quality vector vortex arrays by holographic and geometric phase control]()
-- [Measuring the nonseparability of vector vortex beams]()
-- [Quantum Entanglement of High Angular Momenta]()
-- [Quantum−like nonseparable structures in optical beams]()
-- [Simultaneous generation of multiple vector beams on a single SLM]()
+- [Arbitrary complex retarders using a sequence of spatial light modulators as the basis for adaptive polarisation compensation](https://iopscience.iop.org/article/10.1088/2040-8986/abed33/meta)
+- [Basis-independent tomography and nonseparability witnesses of pure complex vectorial light fields by Stokes projections](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.063842)
+- [Beam quality measure for vector beams](https://opg.optica.org/ol/abstract.cfm?uri=ol-41-15-3407)
+- [Comprehensive quantitative analysis of vector beam states based on vector field reconstruction](https://www.nature.com/articles/s41598-019-46390-7)
+- [Concepts in quantum state tomography and classical implementation with intense light a tutorial](https://opg.optica.org/aop/fulltext.cfm?uri=aop-11-1-67&id=407039)
+- [ENTANGLEMENT OF FORMATION AND CONCURRENCE](https://dl.acm.org/doi/abs/10.5555/2011326.2011329)
+- [Generating arbitrary non-separable states with polarization and orbital angular momentum of light](https://arxiv.org/abs/2307.06044)
+- [Generation and Detection of Structured Light A Review](https://www.frontiersin.org/articles/10.3389/fphy.2021.688284/full)
+- [Generation of fractional and ultra-high polarization-order vector vortex beams on hybrid-order Poincar´e spheres](https://www.sciencedirect.com/science/article/abs/pii/S003039922300350X)
+- [High-order cylindrical vector beams with tunable topologicalcharge up to 14 directly generated from a microchip laser with high beam quality and high efficiency](https://pubs.aip.org/aip/app/article/4/10/106106/594654/High-order-cylindrical-vector-beams-with-tunable)
+- [High-quality vector vortex arrays by holographic and geometric phase control](https://iopscience.iop.org/article/10.1088/1361-6463/ab9d9b)
+- [Measuring the nonseparability of vector vortex beams](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.023833)
+- [Quantum Entanglement of High Angular Momenta](https://www.science.org/doi/10.1126/science.1227193)
+- [Quantum−like nonseparable structures in optical beams](https://iopscience.iop.org/article/10.1088/1367-2630/17/4/043024)
+- [Simultaneous generation of multiple vector beams on a single SLM](https://opg.optica.org/oe/fulltext.cfm?uri=oe-25-21-25697&id=375104)
 
 ## 近軸近似のもとでスカラー場に対するヘルムホルツ方程式を解く
 
-- [From Maxwell to paraxial wave optics]()
-- [Gaussian Beam 計算メモ]()
-http://solidstatephysics.blog.fc2.com/blog-entry-47.html
+- [From Maxwell to paraxial wave optics](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.11.1365)
+- [Gaussian Beam 計算メモ](http://solidstatephysics.blog.fc2.com/blog-entry-47.html)
 
 ## 近軸近似のもとでベクトル場に対するヘルムホルツ方程式を解く
 
-- [Separability and Applications]()
-- [Vector-beam solutions of Maxwell's wave equation]()
-- [Vector Helmholtz–Gauss and vector Laplace–Gauss beams]()
-http://solidstatephysics.blog.fc2.com/blog-entry-31.html
+- [Separability and Applications](https://fse.studenttheses.ub.rug.nl/18997/)
+- [Vector-beam solutions of Maxwell's wave equation](https://opg.optica.org/ol/abstract.cfm?uri=ol-21-1-9)
+- [Vector Helmholtz–Gauss and vector Laplace–Gauss beams](http://solidstatephysics.blog.fc2.com/blog-entry-31.html)
 - [腰も砕けよ 膝も折れよ]("https://decafish.blog.ss-blog.jp/archive/c2305062484-1)
   
 ## 近軸近似せずにスカラー場のヘルムホルツ方程式を解く
-- [Closed-form bases for the description of monochromatic, strongly focused, electromagnetic fields]()
-- [Measuring the nonseparability of vector vortex beams]()
-- [Nonparaxial Propagation Properties of Specially Correlated Radially Polarized Beams in Free Space]()
+- [Closed-form bases for the description of monochromatic, strongly focused, electromagnetic fields](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-26-10-2211)
+- [Measuring the nonseparability of vector vortex beams](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.023833)
+- [Nonparaxial Propagation Properties of Specially Correlated Radially Polarized Beams in Free Space](https://www.mdpi.com/2076-3417/9/5/997)
 
 ## ビームの最適化
-- [A practical algorithm for the determination of phase from image and diffraction plane pictures]()
-- [Continuous-relief diffractive optical elements for two-dimensional array generation]()
-- [Kinoform design with an optimal-rotation-angle method]()
-- [New iterative algorithm for the design of phaseonly gratings]()
+- [A practical algorithm for the determination of phase from image and diffraction plane pictures](https://www.semanticscholar.org/paper/A-practical-algorithm-for-the-determination-of-from-Gerchberg/5a114d3050a0a33f8cc6d28d55fa048a5a7ab6f2)
+- [Continuous-relief diffractive optical elements for two-dimensional array generation](https://pubmed.ncbi.nlm.nih.gov/20820413/)
+- [Kinoform design with an optimal-rotation-angle method](https://opg.optica.org/ao/abstract.cfm?uri=ao-33-29-6879)
+- [New iterative algorithm for the design of phaseonly gratings](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/1555/0000/New-iterative-algorithm-for-the-design-of-phase-only-gratings/10.1117/12.50619.short)
