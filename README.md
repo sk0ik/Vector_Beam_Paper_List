@@ -1,3 +1,5 @@
+# ベクトルビームを理解するうえで必要な(だった)本や論文を紹介します.
+
 1. [教科書](#教科書)
 2. [論文など](#論文など)
    1. [論文をまとめる系の論文](#論文をまとめる系の論文)
@@ -225,10 +227,10 @@ MITの有志の方がベクトルビームの集光を計算するPythonパッ�
 
 ## 近軸近似のもとでベクトル場に対するヘルムホルツ方程式を解く
 
-- [Separability and Applications](https://fse.studenttheses.ub.rug.nl/18997/)
-- [Vector-beam solutions of Maxwell's wave equation](https://opg.optica.org/ol/abstract.cfm?uri=ol-21-1-9)
+- $\heartsuit$ [Separability and Applications of the Helmholtz Equation](https://fse.studenttheses.ub.rug.nl/18997/)
+- $\heartsuit$ [Vector-beam solutions of Maxwell's wave equation](https://opg.optica.org/ol/abstract.cfm?uri=ol-21-1-9)
 - [Vector Helmholtz–Gauss and vector Laplace–Gauss beams](http://solidstatephysics.blog.fc2.com/blog-entry-31.html)
-- [腰も砕けよ 膝も折れよ]("https://decafish.blog.ss-blog.jp/archive/c2305062484-1)
+- [腰も砕けよ 膝も折れよ](https://decafish.blog.ss-blog.jp/archive/c2305062484-1)
   
 ## 近軸近似せずにスカラー場のヘルムホルツ方程式を解く
 - [Closed-form bases for the description of monochromatic, strongly focused, electromagnetic fields](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-26-10-2211)
